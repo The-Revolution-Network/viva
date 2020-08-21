@@ -1,9 +1,6 @@
-[submodule "TheRevolution.Network.Library"]
-	path = TheRevolution.Network.Library
+[submodule "TheRevolutionNetwork.Library"]
+	path = TheRevolutionNetwork.Library
 	url = git@github.com:The-Revolution-Network/library.git
-[submodule "TheRevolution.Network.Tests"]
-	path = TheRevolution.Network.Tests
+[submodule "TheRevolutionNetwork.Tests"]
+	path = TheRevolutionNetwork.Tests
 	url = git@github.com:The-Revolution-Network/tests.git
-[submodule "TheRevolution.Network.Web.Api"]
-	path = TheRevolution.Network.Web.Api
-	url = git@github.com:The-Revolution-Network/blazor.git
