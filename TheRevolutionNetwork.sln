@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheRevolutionNetwork.Librar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheRevolutionNetwork.Tests", "TheRevolutionNetwork.Tests\TheRevolutionNetwork.Tests.csproj", "{9177D518-1089-468D-B53C-953C4E0CE1F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheRevolutionNetwork.Web.Api", "TheRevolutionNetwork.Web.Api\TheRevolutionNetwork.Web.Api.csproj", "{1DF5342E-EA51-4D31-95ED-B1FADAC234CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9177D518-1089-468D-B53C-953C4E0CE1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9177D518-1089-468D-B53C-953C4E0CE1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9177D518-1089-468D-B53C-953C4E0CE1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF5342E-EA51-4D31-95ED-B1FADAC234CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF5342E-EA51-4D31-95ED-B1FADAC234CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF5342E-EA51-4D31-95ED-B1FADAC234CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF5342E-EA51-4D31-95ED-B1FADAC234CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

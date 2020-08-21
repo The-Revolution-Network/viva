@@ -4,3 +4,6 @@
 [submodule "TheRevolutionNetwork.Tests"]
 	path = TheRevolutionNetwork.Tests
 	url = git@github.com:The-Revolution-Network/tests.git
+[submodule "TheRevolutionNetwork.Web.Api"]
+	path = TheRevolutionNetwork.Web.Api
+	url = git@github.com:The-Revolution-Network/blazor.git
