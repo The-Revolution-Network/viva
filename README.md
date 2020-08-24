@@ -9,5 +9,5 @@ git clone --recursive git@github.com:The-Revolution-Network/viva.git viva.TheRev
 
 If you're planning on deploying a server, here is the top-most container which builds an ASP.Net official container.
 ```
-git clone --recursive git@github.com:The-Revolution-Network/viva.git TheRevolutionNetwork.docker
+git clone --recursive git@github.com:The-Revolution-Network/docker.git TheRevolutionNetwork.docker
 ```
