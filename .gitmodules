@@ -7,3 +7,6 @@
 [submodule "TheRevolutionNetwork.Web.Api"]
 	path = TheRevolutionNetwork.Web.Api
 	url = git@ssh.dev.azure.com:v3/TheRevolutionNetwork/The%20Revolution%20Network/Blazor
+[submodule "TheRevolutionNetwork"]
+	path = TheRevolutionNetwork
+	url = git@github.com:The-Revolution-Network/Tapestry.git
