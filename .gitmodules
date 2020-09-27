@@ -1,6 +1,6 @@
 [submodule "TheRevolutionNetwork.Tests"]
 	path = TheRevolutionNetwork.Tests
-	url = git@ssh.dev.azure.com:v3/TheRevolutionNetwork/The%20Revolution%20Network/Tests
+	url = git@github.com:The-Revolution-Network/tests.git
 [submodule "TheRevolutionNetwork"]
 	path = TheRevolutionNetwork
 	url = git@github.com:The-Revolution-Network/Tapestry.git
